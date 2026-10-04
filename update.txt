@@ -1,1 +1,1 @@
-1.7|PLACEHOLDER
+1.7|https://github.com/Sain-21/insa1n-updates/releases/download/v1.7/ServiceHub.Host.dotnet.x64.exe
